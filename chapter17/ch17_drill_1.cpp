@@ -2,6 +2,7 @@
 #include <stdexcept>
 #include <vector>
 
+
 using namespace std;
 
 ostream& print_array(ostream& os, int* a, int n)
